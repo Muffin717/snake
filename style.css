@@ -40,7 +40,7 @@ body{
     height: 100%;
     width: 100%;
     display: grid;
-    background: #300942;
+    background: #232136;
     grid-template: repeat(30, 1fr) / repeat(30, 1fr);
 }
 
